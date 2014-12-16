@@ -1,0 +1,25 @@
+.wrapper {width:960px;margin:auto}
+.header {}
+.maincontent{margin:auto;padding-bottom:2px solid black}
+.links ul{overflow:visible;letter-spacing:20px}
+.links h3{color:gray}
+
+.what h2{color:#1B5F84;font-family:georgia}
+.what p {white-space:nowrap;font-size:15px;color:black;font-family:georgia}
+
+.why{background-color:#E5EEF5;width:320px;height:230px;position:absolute;left:830px;top:640px;}
+.why h2{position:absolute;left:10px;color:#1B5F84;font-family:georgia}
+.why p{position:absolute;left:10px;top:50px;color:gray;font-size:15px;font-family:georgia}
+# second {color:gray;font-size:15px;font-family:georgia}
+.comments {margin-top: 5px black;width:960px;height:300px}
+#first {position:absolute;left:250px;top:1000px}
+#third {position:absolute;left:650px;top:1000px}
+.comments p{position:absolute;left:330px;top:980px}
+#forth {position:absolute;left:800px;top:980px}
+.footer{background-color:#007099;width:960px;height:220px}
+.footer h4{color:White;position:absolute;left:630px;top:1200px;font-size:25px}
+#fifth {position:absolute;left:580px;top:1260px}
+#sixth{position:absolute;left:635px;top:1260px}
+#seventh {position:absolute;left:690px;top:1260px}
+#eighth {position:absolute;left:745px;top:1260px}
+.footer h5 {color:White;position:absolute;left:570px;top:1340px;font-size:12px;font-family:georgia}
